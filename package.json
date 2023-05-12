@@ -1,0 +1,29 @@
+{
+  "name": "depo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve src/index.html",
+    "watch": "parcel watch src/index.html",
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /depo/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawelYarko/depo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PawelYarko/depo/issues"
+  },
+  "homepage": "https://github.com/PawelYarko/depo",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "posthtml-include": "^1.7.4",
+    "sass": "^1.62.1"
+  }
+}
