@@ -1,0 +1,39 @@
+.calc__container {
+    display: flex;
+    flex-direction: column;
+    margin: 116px 16px 160px 16px;
+  
+    @media screen and (min-width: $tablet) {
+      
+    }
+  
+    @media screen and (min-width: $desktop) {
+      
+    }
+  }
+
+.calc__btns{
+    display: flex;
+}
+
+.calc__form{
+    display: flex;
+    flex-direction: column;
+    margin: 11px;
+    border-radius: 9.3px;
+    background-color:$background-color;
+}
+
+.calc__form--item{
+    font-size: 10px;
+    padding: 25px 15px;
+}
+
+.calc__form--btn{
+    width: 267px;
+    height: 41px;
+    color: $color-white;
+    background-color: $accent-color;
+    border: 0;
+    border-radius: 6.2px;
+}
