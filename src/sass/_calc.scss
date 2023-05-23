@@ -124,6 +124,14 @@
     background-color:$background-color;
     border: 0;
     border-bottom: 0.875586px solid rgba(207, 219, 213, 0.6);
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 16px;
+}
+
+.calc__form--input:active,:focus,:hover{
+    outline: 0;
+    outline-offset: 0;
 }
 
 .calc__form--btn{
