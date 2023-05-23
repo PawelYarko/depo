@@ -5,29 +5,34 @@
             <button type="submit" class="form-modal__recieve">Recieve</button>
         </div>
         <div class="calc__sum--container">
-            <p class="calc__sum">$350.00</p>
-            <p class="calc__currency">0 BTC ≈ $0.00</p>
-            <button type="button"></button>
-            <svg class="calc__arrows">
-                <use href="./icons/arrows.svg"></use>
-            </svg>
+            <div class="calc__left">
+                <p class="calc__sum">$350.00</p>
+                <p class="calc__currency">0 BTC ≈ $0.00</p>
+            </div>
+            <button class="calc__arrows--btn">
+                <svg class="calc__arrows">
+                    <use href="./icons/sprite.svg#arrows"></use>
+                </svg>
+            </button>
         </div>
         <form action="" class="calc__form">
-            <label for="" class="calc__form--item">Pay with
-                <select id="currencies">
-                    <option value="Litecoin">Litecoin</option>
-                    <option value="Monero">Monero</option>
-                    <option value="Dash">Dash</option>
-                    <option value="Zcash">Zcash</option>
-                    <option value="VertCoin">VertCoin</option>
-                </select>
-            </label>  
-            <label for="" class="calc__form--item">Send to
-                <input type="text"> 
-            </label>  
-            <label for="" class="calc__form--item">Note
-                <input type="text" placeholder="Type to add a note"> 
-            </label> 
+            <div class="calc__form--container">
+                <label for="" class="calc__form--item"><span class="calc__items--text">Pay with</span>
+                    <select id="currencies" class="calc__form--input">
+                        <option value="Litecoin">Litecoin</option>
+                        <option value="Monero">Monero</option>
+                        <option value="Dash">Dash</option>
+                        <option value="Zcash">Zcash</option>
+                        <option value="VertCoin">VertCoin</option>
+                    </select>
+                </label>  
+                <label for="" class="calc__form--item"><span class="calc__items--text">Send to</span>
+                    <input type="text" class="calc__form--input"> 
+                </label>  
+                <label for="" class="calc__form--item"><span class="calc__items--text">Note</span>
+                    <input type="text" class="calc__form--input" placeholder="Type to add a note"> 
+                </label> 
+            </div>
             <input type="submit" class="calc__form--btn" value="Continue Transfer">
         </form>
         
