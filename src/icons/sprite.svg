@@ -1,0 +1,49 @@
+<svg width="0" height="0" class="hidden">
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 11" id="arrows">
+    <path d="M2.98828 4.5L0 7.48828L2.98828 10.4766V8.22656H8.26172V6.75H2.98828V4.5ZM13.5 2.98828L10.5117 0V2.25H5.23828V3.72656H10.5117V5.97656L13.5 2.98828Z" fill="black"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 163 264" id="blue_arrow">
+    <path d="M162.198 245.82C162.771 246.123 162.804 246.938 162.258 247.286L150.908 254.53C150.362 254.879 149.646 254.5 149.619 253.848L149.067 240.308C149.041 239.656 149.724 239.221 150.296 239.524L162.198 245.82Z" fill="#3E8BF3"></path>
+    <path d="M-83.2913 29.2975C-83.5537 22.8604 -83.5488 16.4744 -83.2866 10.1502L-78.0208 9.93555C-78.2952 16.2585 -78.3064 22.6449 -78.044 29.0836C-73.036 151.951 29.7315 247.744 152.244 244.557L152.458 249.805C27.0472 253.109 -78.1652 155.063 -83.2913 29.2975Z" fill="url(#paint0_linear_77_5001)"></path>
+    <defs>
+      <linearGradient id="paint0_linear_77_5001" x1="157.07" y1="261.655" x2="-130.928" y2="122.469" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#3E8BF3"></stop>
+        <stop offset="1" stop-color="#3E8BF3" stop-opacity="0"></stop>
+      </linearGradient>
+    </defs>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 20" id="ClipboardText">
+    <path d="M13.625 1.875H7.375V5H13.625V1.875Z" stroke="#6F767E" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M13.625 3.125H16.125C16.2908 3.125 16.4497 3.19085 16.5669 3.30806C16.6842 3.42527 16.75 3.58424 16.75 3.75V16.875C16.75 17.0408 16.6842 17.1997 16.5669 17.3169C16.4497 17.4342 16.2908 17.5 16.125 17.5H4.875C4.70924 17.5 4.55027 17.4342 4.43306 17.3169C4.31585 17.1997 4.25 17.0408 4.25 16.875V3.75C4.25 3.58424 4.31585 3.42527 4.43306 3.30806C4.55027 3.19085 4.70924 3.125 4.875 3.125H7.375" stroke="#6F767E" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M8 11.875H13" stroke="#6F767E" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M8 9.375H13" stroke="#6F767E" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="List">
+    <path d="M3.75 12H20.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M3.75 6H20.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M3.75 18H20.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 159 215" id="green_arrow">
+    <path d="M0.746442 7.07746C0.186407 7.40359 0.186408 8.21892 0.746443 8.54505L12.3819 15.3208C12.9419 15.647 13.642 15.2393 13.642 14.587L13.642 1.03547C13.642 0.383204 12.9419 -0.0244595 12.3819 0.301672L0.746442 7.07746Z" fill="#6FD6BD"></path>
+    <path d="M234.986 214.753C224.76 99.752 129.874 9.09934 13.0767 5.54346V10.7977C126.972 14.3466 219.508 102.656 229.712 214.753H234.986Z" fill="url(#paint0_linear_77_4998)"></path>
+    <defs>
+      <linearGradient id="paint0_linear_77_4998" x1="23.9552" y1="5.43511" x2="190.134" y2="208.001" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#6FD6BD"></stop>
+        <stop offset="1" stop-color="#6FD6BD" stop-opacity="0"></stop>
+      </linearGradient>
+    </defs>
+  </symbol>
+</svg>
+
+
+<!-- <svg class="icon">
+  <use xlink:href="#arrows"></use>
+</svg><svg class="icon">
+  <use xlink:href="#blue_arrow"></use>
+</svg><svg class="icon">
+  <use xlink:href="#ClipboardText"></use>
+</svg><svg class="icon">
+  <use xlink:href="#List"></use>
+</svg><svg class="icon">
+  <use xlink:href="#green_arrow"></use>
+</svg> -->
