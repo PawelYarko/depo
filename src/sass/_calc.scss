@@ -70,19 +70,6 @@
     line-height: 18px;
 }
 
-.calc__sum--container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
-.calc__left{
-    display: flex;
-    flex-direction: column;
-    margin-right: 32px;
-}
-
 .calc__sum{
     margin: 0;
     color: $color-black;
